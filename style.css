@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    margin-left: 10vh;
+    margin-right: 10vh;
+    border: 1vh dashed rgb(246, 70, 70);
+    padding-left: 5vh;
+    padding-right: 5vh;
+    padding-bottom: 5vh;
+}
+
+h1{
+    font-size: 15vh;
+    color: rgb(246, 70, 70);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-top: 2vh;
+}
+
+p{
+    color: white;
+    font-size: 4vh;
+    /* text-align: center; */
+}
+
+button{
+    width: auto;
+    height: auto;
+    font-size: 3vh;
+    background-color: white;
+    border-radius: 10%;
+    text-align: center;
+}
